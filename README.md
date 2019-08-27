@@ -1,2 +1,2 @@
 # Design-Patterns-Tutorial-Factory
- This project is taken from Derek Banas' Design Patterns Tutorial series.
+Factory pattern would be used whenever you would need a method to return one of several possible classes that share a common superclass. This pattern could be used to create an enemy in a game. It is used when: not knowing ahead of time what class objects are needed, all potential classes are of the same subclass hierarchy, to centralize class selection code, to encapsulate object creation, to prevent the user from knowing every subclass.
